@@ -15,3 +15,14 @@ Thumbs.db
 dist/
 build/
 *.spec
+# Virtual environments
+venv/
+venv310/
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
