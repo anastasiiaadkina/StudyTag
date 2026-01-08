@@ -30,7 +30,7 @@ StudyTag is a cross-platform desktop application designed for studying. One of i
 ### 🐧 Linux
 
 **Requirements:**
-- Python **3.10+**
+- Python **3.10
 - Webcam
 - OpenGL support
 
@@ -50,7 +50,7 @@ python app.py
 ### 🍎 macOS
 Requirements:
 
-Python 3.10+
+Python 3.10
 
 Webcam access enabled for Terminal/Python
 
@@ -71,6 +71,7 @@ python app.py
 
 ### 🪟 Windows
 Windows support is currently in development. A packaged .exe version will be available in future releases.
+
 
 
 
